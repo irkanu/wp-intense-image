@@ -1,4 +1,4 @@
-#WP Intense Image
+#WP Intense Images
 A simple WordPress plugin based on Intense Images by [tholman](https://github.com/tholman/intense-images).
 
 Intense Images is a stand alone javascript library for viewing images on the full, full screen.
