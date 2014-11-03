@@ -21,7 +21,7 @@ if(!defined('WPINC')){
  */
 add_action('init', 'intense_register_shortcode');
 function intense_register_shortcode(){
-	add_shortcode('intense', 'intense_shortcode');
+	add_shortcode('intense-image', 'intense_shortcode');
 }
 
 /*
